@@ -1,0 +1,1 @@
+Copy and past these files into your project but OUTSIDE your package.
